@@ -1,0 +1,103 @@
+body{
+    background-color: #f4e3a4;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+body> div{
+    min-height: 30vh;
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 25px;
+}
+
+.header{
+    background-color: wheat;
+    color: black;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.company{
+    background-color: #f7f5f3;
+    flex-wrap: wrap;
+    display: flex;
+
+}
+
+.baby{
+    background-color: #f7f5f3;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 10%;
+
+}
+
+.mission{
+    background-color: wheat;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.baby2{
+    background-color: wheat;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 10%;
+
+}
+
+.corevalues{
+    background-color: #f7f5f3;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.baby3{
+    
+    background-color: #f7f5f3;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 10%;
+}
+
+.bigcontainer{
+    display: flex;
+    background-color: wheat;
+
+}
+.title{
+    flex-direction: row;
+    padding-left: 40%;  
+
+}
+
+.contactform{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.information{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.email{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-left: 0%;
+
+}
+
+.btn{
+    padding: 5px;
+    background-color: wheat;
+}
